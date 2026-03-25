@@ -6,8 +6,8 @@
 
   <p align="center">
     <a href="mailto:dinghuakeng@qq.com"><img src="https://img.shields.io/badge/Email-dinghuakeng%40qq.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="你的GoogleScholar链接"><img src="https://img.shields.io/badge/Google%20Scholar-Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Scholar"></a>
-    <a href="https://github.com/你的用户名"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+    <!-- <a href="你的GoogleScholar链接"><img src="https://img.shields.io/badge/Google%20Scholar-Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Scholar"></a> -->
+    <a href="https://github.com/Florentino-Ariza"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   </p>
 
   <p align="center">
@@ -27,13 +27,7 @@ I am a first-year Master's student at **Zhejiang University**, supervised by **P
 
 ---
 
-### 🔥 News
-- **[2026.03]** One paper on Adaptive 4D Structured Illumination accepted by **CVPR 2026**!
-- **[2025.08]** Submitted "Learning View-Dependent Splatting Kernels" to **SIGGRAPH 2026**.
-
----
-
-### 📝 Selected Publications
+### 📝 Publications
 <!-- 重点展示你的第一作者论文 -->
 
 #### [SIGGRAPH 2026] Learning View-Dependent Splatting Kernels (Under Review)
@@ -48,42 +42,6 @@ I am a first-year Master's student at **Zhejiang University**, supervised by **P
 [Project Page](#) | [Paper](#) | [Code](#)
 - Developed a differentiable 4D space-angular structured light framework.
 - Achieved **100x reduction** in exposure time and sub-millimeter accuracy for complex materials (Specular/Diffuse).
-
----
-
-### 🛠 Technical Skills
-<table align="center">
-  <tr>
-    <td align="center" width="120px"><b>Languages</b></td>
-    <td>Python, <b>C++</b>, <b>CUDA (Expert)</b>, GLSL</td>
-  </tr>
-  <tr>
-    <td align="center" width="120px"><b>Frameworks</b></td>
-    <td>PyTorch (Distributed Training), OpenCV, Taichi</td>
-  </tr>
-  <tr>
-    <td align="center" width="120px"><b>Graphics</b></td>
-    <td><b>3DGS</b>, NeRF, SVBRDF, Differentiable Rendering, Ray Tracing</td>
-  </tr>
-  <tr>
-    <td align="center" width="120px"><b>Tools</b></td>
-    <td>Blender, MeshLab, Git, Linux (Performance Tuning)</td>
-  </tr>
-</table>
-
----
-
-### 🚀 Engineering Highlights
-- **High-Performance Rendering**: Deep understanding of 3DGS rasterization pipeline. Proficient in deriving and implementing complex **Forward/Backward CUDA Kernels** from scratch.
-- **3D AIGC**: Familiar with modern generative paradigms (SDS, LRM/LGM) and sparse representation works like TRELLIS and VoxSet.
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=transparent&rank_icon=github" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=transparent" height="150" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=你的用户名&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
