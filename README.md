@@ -30,19 +30,12 @@ I am a first-year Master's student at **Zhejiang University**, supervised by **P
 ### 📝 Publications
 <!-- 重点展示你的第一作者论文 -->
 
-#### [SIGGRAPH 2026] Learning View-Dependent Splatting Kernels (Under Review)
-*<u>Huakeng Ding</u>, et al.*  
-[Project Page](#) | [Paper](#) | [Code](#)
-- Proposed a data-driven framework to learn optimal 2D splatting kernels.
-- Implemented **custom CUDA kernels** for 1D Profile pre-sampling and rasterization, significantly reducing MLP inference overhead.
-- Achieved SOTA quality (+0.3 dB PSNR) on 4 major benchmarks.
-
 #### [CVPR 2026] Differentiable Adaptive 4D Structured Illumination for Joint Capture of Shape and Reflectance
-*<u>Huakeng Ding</u>, et al.*  
+*<u>Huakeng Ding, Yaowen Chen, Kun Zhou and Hongzhi Wu</u>*  
 [Project Page](#) | [Paper](#) | [Code](#)
 - Developed a differentiable 4D space-angular structured light framework.
 - Achieved **100x reduction** in exposure time and sub-millimeter accuracy for complex materials (Specular/Diffuse).
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=你的用户名&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
-</p>
+</p> -->
