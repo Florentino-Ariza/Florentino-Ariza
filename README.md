@@ -38,7 +38,7 @@ I am a second-year Master's student at **Zhejiang University**, supervised by **
   * [[Paper(arxiv)]](https://arxiv.org/abs/2605.06214) 
 * **[TVCG 2024]** Learning Photometric Feature Transform for Free-form Object Scan
   * Xiang Feng, Kaizhang Kang, Fan Pei, **Huakeng Ding**, Jinjiang You, Ping Tan, Kun Zhou, Hongzhi Wu
-  * [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10791813)
+  * [[Paper(IEEE Xplore)]](https://ieeexplore.ieee.org/document/10791813)
 
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=你的用户名&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
