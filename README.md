@@ -18,7 +18,7 @@
 ---
 
 ### 🧬 About Me
-I am a second-year Master's student at **Zhejiang University**, supervised by **Prof. Hongzhi Wu**. My research lies at the intersection of Computer Graphics and Computer Vision. I am particularly passionate about building efficient and high-quality 3D representation and reconstruction systems. Welcome to visit my website(https://dinghuakeng.github.io/)
+I am a second-year Master's student at **Zhejiang University**, supervised by **Prof. Hongzhi Wu**. My research lies at the intersection of Computer Graphics and Computer Vision. I am particularly passionate about building efficient and high-quality 3D representation and reconstruction systems. Welcome to visit my [website](https://dinghuakeng.github.io/)
 
 - 🎓 **Education**: 
   - **M.S. in CS**, Zhejiang University (2024 - 2027)
