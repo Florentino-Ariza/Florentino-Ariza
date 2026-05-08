@@ -6,7 +6,7 @@
 
   <p align="center">
     <a href="mailto:dinghuakeng@qq.com"><img src="https://img.shields.io/badge/Email-dinghuakeng%40qq.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-    <!-- <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AIqSsVvLeoqFUndOFb26obUfisZcaGEj2D2u2rzZZDT1YERQvQZLWOLhqYfko683sJuR3bC8KLRvbRkNVPwQdQ&user=GKASJA0AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Scholar"></a> -->
+   <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AIqSsVvLeoqFUndOFb26obUfisZcaGEj2D2u2rzZZDT1YERQvQZLWOLhqYfko683sJuR3bC8KLRvbRkNVPwQdQ&user=GKASJA0AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Scholar"></a>
     <a href="https://github.com/Florentino-Ariza"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   </p>
 
@@ -18,7 +18,7 @@
 ---
 
 ### 🧬 About Me
-I am a second-year Master's student at **Zhejiang University**, supervised by **Prof. Hongzhi Wu**. My research lies at the intersection of Computer Graphics and Computer Vision. I am particularly passionate about building efficient and high-quality 3D representation and reconstruction systems.
+I am a second-year Master's student at **Zhejiang University**, supervised by **Prof. Hongzhi Wu**. My research lies at the intersection of Computer Graphics and Computer Vision. I am particularly passionate about building efficient and high-quality 3D representation and reconstruction systems. Welcome to visit my website(https://dinghuakeng.github.io/)
 
 - 🎓 **Education**: 
   - **M.S. in CS**, Zhejiang University (2024 - 2027)
