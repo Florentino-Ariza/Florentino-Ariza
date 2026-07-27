@@ -32,7 +32,7 @@ I am a second-year Master's student at **Zhejiang University**, supervised by **
 
 * **[SIGGRAPH 2026]** Learning View-Dependent Splatting Kernels
   * **Huakeng Ding\***, Zhanpeng Liu\*, Kun Zhou and Hongzhi Wu (*: equal contribution)
-  * [[Project Page(coming soon)]](#) [[Paper(coming soon)]](#) [[Code((coming soon))]](#)
+  * [[Project Page]](https://optkernel.github.io)
 * **[CVPR 2026]** Differentiable Adaptive 4D Structured Illumination for Joint Capture of Shape and Reflectance
   * **Huakeng Ding**, Yaowen Chen, Kun Zhou and Hongzhi Wu
   * [[Paper(arxiv)]](https://arxiv.org/abs/2605.06214) 
